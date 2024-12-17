@@ -3,7 +3,7 @@ entries:
   speckle-server:
   - apiVersion: v2
     appVersion: 0.1.0-local
-    created: "2024-12-17T21:27:47.74522+03:30"
+    created: "2024-12-17T22:45:41.627846+03:30"
     description: Speckle Server
     digest: ec5711cab9d2b3f34b43f5c1c53034ba30e6f3446c1fffbe0da12f10c6b27e86
     home: https://speckle.systems/
@@ -18,4 +18,4 @@ entries:
     urls:
     - https://geovision-cloud.github.io/helm/speckle-server-0.1.0-local.tgz
     version: 0.1.0-local
-generated: "2024-12-17T21:27:47.742581+03:30"
+generated: "2024-12-17T22:45:41.622888+03:30"
