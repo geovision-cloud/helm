@@ -16,6 +16,6 @@ entries:
     - https://github.com/specklesystems/speckle-server
     type: application
     urls:
-    - https://github.io/geovision-cloud/helm/speckle-server-0.1.0-local.tgz
+    - https://geovision-cloud.github.io/helm/speckle-server-0.1.0-local.tgz
     version: 0.1.0-local
 generated: "2024-12-17T21:27:47.742581+03:30"
