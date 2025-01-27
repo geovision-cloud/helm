@@ -1,0 +1,13 @@
+apiVersion: v2
+appVersion: 2.23.5
+description: Speckle Server
+home: https://speckle.systems/
+icon: https://speckle.xyz/logo.svg
+maintainers:
+- name: Speckle Systems
+  url: https://speckle.systems/
+name: speckle-server
+sources:
+- https://github.com/specklesystems/speckle-server
+type: application
+version: 0.1.5
