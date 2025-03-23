@@ -10,4 +10,4 @@ name: speckle-server
 sources:
 - https://github.com/specklesystems/speckle-server
 type: application
-version: 0.1.6
+version: 0.1.7
