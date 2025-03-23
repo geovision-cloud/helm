@@ -3,7 +3,7 @@ entries:
   speckle-server:
   - apiVersion: v2
     appVersion: 2.23.5
-    created: "2025-01-27T11:59:44.157638+03:30"
+    created: "2025-03-23T13:38:40.712341+03:30"
     description: Speckle Server
     digest: 306134d57cca3bcc5e9095b5c0c966f327288873816eb7ee1d9f5f9ad224407a
     home: https://speckle.systems/
@@ -20,7 +20,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2025-01-27T11:59:44.160084+03:30"
+    created: "2025-03-23T13:38:40.714998+03:30"
     description: Speckle Server
     digest: c7b577a82b32ed505efcb0fe43e1a3f0322e87c5bb05018c3493976f6862daad
     home: https://speckle.systems/
@@ -37,7 +37,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2025-01-27T11:59:44.15512+03:30"
+    created: "2025-03-23T13:38:40.710059+03:30"
     description: Speckle Server
     digest: b53616b9f6b25e95c1ebfbfca7ac0ba7d5c46abfdae0a657d834df7a25c5fa62
     home: https://speckle.systems/
@@ -54,7 +54,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2025-01-27T11:59:44.152954+03:30"
+    created: "2025-03-23T13:38:40.707703+03:30"
     description: Speckle Server
     digest: 01963ca0fe1ec12e4ad5f53f856fa8417eac6b7bfd3468aab07e3328c7d736e7
     home: https://speckle.systems/
@@ -71,7 +71,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2025-01-27T11:59:44.150513+03:30"
+    created: "2025-03-23T13:38:40.704547+03:30"
     description: Speckle Server
     digest: a8944c5b6605cfc2d12ca39391790f25d703510f986ad204ab712f2c4c4164e4
     home: https://speckle.systems/
@@ -88,7 +88,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2025-01-27T11:59:44.148394+03:30"
+    created: "2025-03-23T13:38:40.702307+03:30"
     description: Speckle Server
     digest: 1ae0b4b6efb3eee2abda67451af0f1010c37f6be5aeeadefdc52c8009e0ec087
     home: https://speckle.systems/
@@ -105,7 +105,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-01-27T11:59:44.145484+03:30"
+    created: "2025-03-23T13:38:40.699135+03:30"
     description: Speckle Server
     digest: 04d3af0cd4065d6b2013bcd081682e227241e23820abc09885b9f01f38cf51c3
     home: https://speckle.systems/
@@ -120,4 +120,4 @@ entries:
     urls:
     - https://geovision-cloud.github.io/helm/speckle-server-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-27T11:59:44.143095+03:30"
+generated: "2025-03-23T13:38:40.696712+03:30"
