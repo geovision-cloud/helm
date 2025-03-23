@@ -3,7 +3,24 @@ entries:
   speckle-server:
   - apiVersion: v2
     appVersion: 2.23.5
-    created: "2025-03-23T15:51:17.529372+03:30"
+    created: "2025-03-24T01:29:18.999112+03:30"
+    description: Speckle Server
+    digest: f026ffdd1511c2ff5b5c3f1d8afa3d2a08bc78118d0d3290e390bf689d19483a
+    home: https://speckle.systems/
+    icon: https://speckle.xyz/logo.svg
+    maintainers:
+    - name: Speckle Systems
+      url: https://speckle.systems/
+    name: speckle-server
+    sources:
+    - https://github.com/specklesystems/speckle-server
+    type: application
+    urls:
+    - https://geovision-cloud.github.io/helm/speckle-server-0.1.10.tgz
+    version: 0.1.10
+  - apiVersion: v2
+    appVersion: 2.23.5
+    created: "2025-03-24T01:29:19.018471+03:30"
     description: Speckle Server
     digest: b0355f0b81f5257e51fcdfcc5b39407586791bf3c715cfdb182109f9f7b8d0a3
     home: https://speckle.systems/
@@ -20,7 +37,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 2.23.5
-    created: "2025-03-23T15:51:17.52734+03:30"
+    created: "2025-03-24T01:29:19.016455+03:30"
     description: Speckle Server
     digest: 4227d99a82e873df71693e6eeddc71e75ba207b802c4cf2100d7fcde0277d0dc
     home: https://speckle.systems/
@@ -37,7 +54,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 2.23.5
-    created: "2025-03-23T15:51:17.524841+03:30"
+    created: "2025-03-24T01:29:19.013949+03:30"
     description: Speckle Server
     digest: 991245b1db9ceca21e2faf6e16039f0c4b0c978c4907015774e92bbe8f270fdd
     home: https://speckle.systems/
@@ -54,7 +71,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 2.23.5
-    created: "2025-03-23T15:51:17.522723+03:30"
+    created: "2025-03-24T01:29:19.011565+03:30"
     description: Speckle Server
     digest: 9b50d3995ceae4c0ca3d9e8aba5f9fc9ec59da8796432a6d20779a21e373e4e4
     home: https://speckle.systems/
@@ -71,7 +88,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 2.23.5
-    created: "2025-03-23T15:51:17.520083+03:30"
+    created: "2025-03-24T01:29:19.009017+03:30"
     description: Speckle Server
     digest: 306134d57cca3bcc5e9095b5c0c966f327288873816eb7ee1d9f5f9ad224407a
     home: https://speckle.systems/
@@ -88,7 +105,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2025-03-23T15:51:17.517443+03:30"
+    created: "2025-03-24T01:29:19.006088+03:30"
     description: Speckle Server
     digest: b53616b9f6b25e95c1ebfbfca7ac0ba7d5c46abfdae0a657d834df7a25c5fa62
     home: https://speckle.systems/
@@ -105,7 +122,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2025-03-23T15:51:17.515173+03:30"
+    created: "2025-03-24T01:29:19.003811+03:30"
     description: Speckle Server
     digest: 01963ca0fe1ec12e4ad5f53f856fa8417eac6b7bfd3468aab07e3328c7d736e7
     home: https://speckle.systems/
@@ -122,7 +139,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2025-03-23T15:51:17.512161+03:30"
+    created: "2025-03-24T01:29:19.001335+03:30"
     description: Speckle Server
     digest: a8944c5b6605cfc2d12ca39391790f25d703510f986ad204ab712f2c4c4164e4
     home: https://speckle.systems/
@@ -139,7 +156,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2025-03-23T15:51:17.509926+03:30"
+    created: "2025-03-24T01:29:18.99672+03:30"
     description: Speckle Server
     digest: 1ae0b4b6efb3eee2abda67451af0f1010c37f6be5aeeadefdc52c8009e0ec087
     home: https://speckle.systems/
@@ -156,7 +173,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-23T15:51:17.507201+03:30"
+    created: "2025-03-24T01:29:18.993073+03:30"
     description: Speckle Server
     digest: 04d3af0cd4065d6b2013bcd081682e227241e23820abc09885b9f01f38cf51c3
     home: https://speckle.systems/
@@ -171,4 +188,4 @@ entries:
     urls:
     - https://geovision-cloud.github.io/helm/speckle-server-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-23T15:51:17.502368+03:30"
+generated: "2025-03-24T01:29:18.990488+03:30"
