@@ -63,7 +63,7 @@ spec:
 
         env:
           - name: NODE_OPTIONS
-            value: "--max-old-space-size=4096"
+            value: "--max-old-space-size=10240"
           - name: HOST
             value: '127.0.0.1' # Only accept connections from localhost, as preview service does not need to be exposed outside the container.
           - name: METRICS_HOST
