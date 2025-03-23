@@ -62,8 +62,6 @@ spec:
           timeoutSeconds: 5
 
         env:
-          - name: NODE_OPTIONS
-            value: "--max-old-space-size=8192"
           - name: FILE_SIZE_LIMIT_MB
             value: {{ .Values.file_size_limit_mb | quote }}
           - name: NUXT_PUBLIC_API_ORIGIN
