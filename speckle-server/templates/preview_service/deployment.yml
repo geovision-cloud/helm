@@ -63,7 +63,7 @@ spec:
 
         env:
           - name: HOST
-            value: '127.0.0.1' # Only accept connections from localhost, as preview service does not need to be exposed outside the container.
+            value: '0.0.0.0' # Allow connections from outside the container
           - name: METRICS_HOST
             value: '0.0.0.0' # Expose metrics outside of the container so it can be scraped by Prometheus
           - name: PORT
