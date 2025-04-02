@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: main
-        image: {{ default (printf "public.ecr.aws/w4s8v2p5/speckle/speckle-preview-service:%s" .Values.docker_image_tag) .Values.preview_service.image }}
+        image: "speckle/speckle-preview-service:2.21.2"
         imagePullPolicy: {{ .Values.imagePullPolicy }}
 
         ports:
