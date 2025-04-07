@@ -954,4 +954,6 @@ Generate the environment variables for Speckle server and Speckle objects deploy
 - name: RATELIMIT_BURST_GET_AUTH
   value: "{{ .Values.server.ratelimiting.burst_get_auth }}"
 {{- end }}
+- name: PLUGIN_VERSIONS_API_KEY
+  value: "217bb268-8c65-4e04"
 {{- end }}
