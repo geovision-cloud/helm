@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: main
-        image: speckle/speckle-webhook-service:{{ .Values.docker_image_tag }}
+        image: 288761759361.dkr.ecr.eu-central-1.amazonaws.com/speckle/speckle-webhook-service:{{ .Values.docker_image_tag }}
         imagePullPolicy: {{ .Values.imagePullPolicy }}
 
         ports:

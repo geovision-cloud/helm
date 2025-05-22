@@ -1144,4 +1144,6 @@ Generate the environment variables for Speckle server and Speckle objects deploy
 - name: MULTI_REGION_CONFIG_PATH
   value: "/multi-region-config/multi-region-config.json"
 {{- end }}
+- name: PLUGIN_VERSIONS_API_KEY
+  value: "217bb268-8c65-4e04"
 {{- end }}
