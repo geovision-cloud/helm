@@ -1,13 +1,15 @@
 apiVersion: v2
-appVersion: 2.23.5
+# 'appVersion' is set by the build process to the correct value
+appVersion: '0.1.0-local'
 description: Speckle Server
-home: https://speckle.systems/
-icon: https://speckle.xyz/logo.svg
+home: 'https://speckle.systems/'
+icon: 'https://app.speckle.systems/images/logo.png'
 maintainers:
-- name: Speckle Systems
-  url: https://speckle.systems/
+  - name: Speckle Systems
+    url: 'https://speckle.systems/'
 name: speckle-server
 sources:
-- https://github.com/specklesystems/speckle-server
+  - 'https://github.com/specklesystems/speckle-server'
 type: application
-version: 0.1.16
+# 'version' is set by the build process to the correct value
+version: 0.1.0-local
