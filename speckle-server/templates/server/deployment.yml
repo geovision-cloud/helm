@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: main
-        image: {{ default (printf "288761759361.dkr.ecr.eu-central-1.amazonaws.com/speckle/speckle-server:%s" .Values.docker_image_tag) .Values.server.image }}
+        image: {{ default (printf "public.ecr.aws/w4s8v2p5/speckle/speckle-server:%s" .Values.docker_image_tag) .Values.server.image }}
         imagePullPolicy: {{ .Values.imagePullPolicy }}
         args: #overwrites the Dockerfile CMD statement
         {{- if .Values.server.inspect.enabled }}
