@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: main
-        image: {{ default (printf "speckle/speckle-fileimport-service:%s" .Values.docker_image_tag) .Values.fileimport_service.image }}
+        image: {{ default (printf "public.ecr.aws/w4s8v2p5/speckle/speckle-fileimport-service:%s" .Values.docker_image_tag) .Values.fileimport_service.image }}
         imagePullPolicy: {{ .Values.imagePullPolicy }}
         args: #overwrites the Dockerfile CMD statement
         {{- if .Values.fileimport_service.inspect.enabled }}
